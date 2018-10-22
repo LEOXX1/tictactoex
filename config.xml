@@ -60,8 +60,8 @@
         <splash density="port-xxhdpi" src="www/res/screen/android/drawable-port-xxhdpi-screen.png"  />
         <splash density="port-xxxhdpi" src="www/res/screen/android/drawable-port-xxxhdpi-screen.png"/>
     </platform>
-    <access origin="https://equisgame.herokuapp.com" /><!-- agregado -->
-    <access origin="http://equisgame.herokuapp.com" />    <!-- agregado -->
+    <access origin="https://tictactoex.herokuapp.com/" /><!-- agregado -->
+    <access origin="https://tictactoex.herokuapp.com/"/>    <!-- agregado -->
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
